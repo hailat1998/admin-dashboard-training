@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/workflow-test-training/static/css/main.75c00059.css",
-    "main.js": "/workflow-test-training/static/js/main.ba827947.js",
-    "index.html": "/workflow-test-training/index.html",
-    "main.75c00059.css.map": "/workflow-test-training/static/css/main.75c00059.css.map",
-    "main.ba827947.js.map": "/workflow-test-training/static/js/main.ba827947.js.map"
+    "main.css": "/admin-dashboard-training/static/css/main.75c00059.css",
+    "main.js": "/admin-dashboard-training/static/js/main.ba827947.js",
+    "index.html": "/admin-dashboard-training/index.html",
+    "main.75c00059.css.map": "/admin-dashboard-training/static/css/main.75c00059.css.map",
+    "main.ba827947.js.map": "/admin-dashboard-training/static/js/main.ba827947.js.map"
   },
   "entrypoints": [
     "static/css/main.75c00059.css",
